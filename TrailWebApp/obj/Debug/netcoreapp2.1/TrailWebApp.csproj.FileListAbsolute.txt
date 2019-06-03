@@ -1,0 +1,14 @@
+D:\vstsaberdeendemo\TrailWebApp\bin\Debug\netcoreapp2.1\TrailWebApp.deps.json
+D:\vstsaberdeendemo\TrailWebApp\bin\Debug\netcoreapp2.1\TrailWebApp.runtimeconfig.json
+D:\vstsaberdeendemo\TrailWebApp\bin\Debug\netcoreapp2.1\TrailWebApp.runtimeconfig.dev.json
+D:\vstsaberdeendemo\TrailWebApp\bin\Debug\netcoreapp2.1\TrailWebApp.dll
+D:\vstsaberdeendemo\TrailWebApp\bin\Debug\netcoreapp2.1\TrailWebApp.pdb
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.csprojAssemblyReference.cache
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.csproj.CoreCompileInputs.cache
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.RazorAssemblyInfo.cache
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.RazorAssemblyInfo.cs
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.AssemblyInfoInputs.cache
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.AssemblyInfo.cs
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.RazorTargetAssemblyInfo.cache
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.dll
+D:\vstsaberdeendemo\TrailWebApp\obj\Debug\netcoreapp2.1\TrailWebApp.pdb
